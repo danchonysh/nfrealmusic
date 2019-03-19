@@ -8,19 +8,11 @@
 	<script>
 	
 	$(document).ready(function(){
-		var i = 1;
 		$('div span').next().hide();
 		$('div p').hide();
 		$('div span').click(function(){
 			$(this).next().slideToggle(200);
-			if (i = 1) do{
-				$(this).animate({"width":"380"});
-			 i = 0;
-			}       i = 0;
-			else {
-				$(this).animate({"width":"90"});
-				i = 1;
-			}
+			
 			});
 	
 	});
