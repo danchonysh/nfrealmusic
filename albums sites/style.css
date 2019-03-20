@@ -1,0 +1,274 @@
+
+
+h3:hover {
+color:purple;
+cursor:pointer;
+
+}
+
+
+
+ol div {
+	background:rgba(255,255,255,0.6);
+	border-radius:25px;
+	padding:15px;
+	text-align:center;
+	width:400px;
+	color:black;
+}
+
+
+.text {
+		
+		width:90px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(230,100%,55%,0.5);
+		color:orange;
+		font-size:34px;
+}
+.text1 {
+		
+		width:90px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(230,100%,55%,0.5);
+		color:orange;
+		font-size:24px;
+}
+.text1:hover {
+	cursor:pointer;
+	color:red;
+}
+.text1p {
+		
+		
+		width:90px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(270,100%,70%,0.5);
+		color:indigo;
+		font-size:24px;
+		
+}
+.text1t {
+		
+		
+		width:90px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(0,0%,100%,0.5);
+		color:darkslategray;
+		font-size:24px;
+}
+
+.text1m {
+		
+		
+		width:90px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: rgba(64,224,208,0.5);
+		color:darkslategray;
+		font-size:24px;
+}
+
+.textp {
+		
+		width:180px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(270,100%,70%,0.5);
+		color:indigo;
+		font-size:34px;
+}
+.text1p:hover {
+	cursor:pointer;
+	color:red;
+}
+.textt {
+		
+		width:180px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(0,0%,100%,0.5);
+		color:darkslategray;
+		font-size:34px;
+}
+.text1t:hover {
+	cursor:pointer;
+	color:red;
+}
+.textm {
+		
+		width:180px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: rgba(64,224,208,0.5);
+		color:darkslategray;
+		font-size:34px;
+}
+.text1m:hover {
+	cursor:pointer;
+	color:red;
+}
+
+.und {
+		text-decoration:underline;
+		color:orange;
+		font-size:15px;
+		background:hsla(230,100%,55%,0.5);
+		border-radius:10px;
+		padding:5px;
+		width:70px;
+		
+}
+.undp {
+		text-decoration:underline;
+		color:indigo;
+		font-size:15px;
+		background:hsla(270,100%,70%,0.5);
+		border-radius:10px;
+		padding:5px;
+		width:70px;
+		
+}
+.undt {
+		text-decoration:underline;
+		color:darkslategray;
+		font-size:15px;
+		background:hsla(0,0%,100%,0.5);
+		border-radius:10px;
+		padding:5px;
+		width:70px;
+}
+.undm {
+		text-decoration:underline;
+		color:darkslategray;
+		font-size:15px;
+		background:rgba(64,224,208,0.5);
+		border-radius:10px;
+		padding:5px;
+		width:70px;
+}
+#id{
+	
+	text-align:center;
+	margin-left:25%;
+	margin-top:5%;
+	width:50%;
+	background:hsla(0,100%,100%,0.6);
+	border-radius:25px;
+	padding:15px;
+}
+
+
+	#id1{
+	text-align:center;
+	margin-left:25%;
+	margin-top:5%;
+	width:50%;
+	background:hsla(0,100%,100%,0.6);
+	border-radius:25px;
+	padding:15px;
+	
+}
+	#id2{
+	text-align:center;
+	margin-left:25%;
+	margin-top:5%;
+	width:50%;
+	background:hsla(0,100%,100%,0.6);
+	border-radius:25px;
+	padding:15px;
+	
+}
+#id3{
+	text-align:center;
+	margin-left:25%;
+	margin-top:5%;
+	width:50%;
+	background:hsla(0,100%,100%,0.6);
+	border-radius:25px;
+	padding:15px;
+	
+}
+	table img {
+			box-shadow: 4px 5px 2px gray;
+	}
+		
+#id p{
+	border:solid 1px black;
+	text-align:center;
+	width:600px;
+	background:hsla(20,100%,65%,0.4);
+	border-radius:25px;
+}
+#id1 p{
+	border:solid 1px black;
+	text-align:center;
+	width:600px;
+	background:hsla(270,100%,70%,0.4);
+	border-radius:25px;
+	
+}
+#id2 pre{
+	color:black;
+	border:solid 1px black;
+	text-align:center;
+	width:600px;
+	background:hsla(0,0%,80%,0.4);
+	border-radius:25px;}
+	#id3 p{
+	border:solid 1px black;
+	text-align:center;
+	width:600px;
+	background:hsla(180,100%,40%,0.4);
+	border-radius:25px;
+	}
+		
+		div ul li{
+		margin:20px;
+		margin-left:-20px;
+		}
+		
+		
+		
+		div .text:hover{
+		cursor:pointer;
+		color:red;
+	
+	}
+	div .textm:hover{
+		cursor:pointer;
+	color:red;}
+	div .textp:hover{
+		cursor:pointer;
+	color:red;}
+	div .textt:hover{
+		cursor:pointer;
+	color:red;}
+	.player {
+position:fixed;
+width:120px;
+background:rgba(255,255,255,0.6);
+text-align:center;
+border-radius:25px;
+padding:5px;
+top:10%;
+max-height:680px;
+overflow:auto;
+
+	}
+	
+	::-webkit-scrollbar { 
+    display: none; 
+}
