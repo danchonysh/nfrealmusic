@@ -1,0 +1,266 @@
+		
+		
+		
+		
+		
+		body{
+	position: relative;
+	overflow:scroll;
+}
+	body::before {
+    background: url(Aion-Fusion.jpg) no-repeat center center;
+    background-size: cover;
+    content: ' ';
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    will-change: transform;
+    z-index: -1;
+}
+		
+
+		aside {
+	
+	
+	text-align:center;
+	margin-top:2.5%;
+	right: 10%;
+	border-radius: 25px; 
+	width: 150px; height: 300px;
+	padding: 10px;
+	position: fixed;
+	background: rgba(255,255,255,0.6);
+	
+
+	}
+	
+	.ram{
+		
+		width:200px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(230,100%,55%,0.5);
+	}
+	.ram4{
+		top:85%;
+		position:absolute;
+		left:15%;
+		width:50px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+	background: hsla(200,100%,55%,0.5);}
+	.ram3{
+		top:85%;
+		left:55%;
+		position:absolute;
+		width:50px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+	background: hsla(200,100%,55%,0.5);
+	
+	}
+	.ram1{
+		width:120px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background: hsla(300,100%,55%,0.5);
+		color: darkslateblue;
+		font-size: 24px;
+	}
+	
+	.up {
+		position:fixed;
+		width:70px;
+		height:70px;
+		border-radius:50%;
+		background:rgba(255,255,255,0.5);
+		right:15%;
+		top:5%;
+		display:none;
+	}
+	.inup{
+		font-size:24px;
+		position:absolute;
+		left:33%;
+		top:30%;
+	}
+		
+	
+	
+	img {
+		border-radius:10px;
+		
+		}
+		
+	table img:hover {
+			filter:saturate(1.8);
+			
+	}
+	
+	aside img:hover {
+		border: dotted red 2px;
+	}
+	aside ul {
+		position:absolute;
+		right:25%;
+	}
+	#lift{
+		width:51.7%;
+		
+		padding:15px;
+		background-color: rgba(255,255,255,0.6);
+		position:relative;
+		margin-top:50px;
+		font-size: 24px;
+		border-radius:25px;
+		color: darkslateblue; 
+		top:-30%;
+		left:25%;
+		
+		text-align:center;
+	}
+		
+	header {
+		width:50%;
+		text-align:center;
+		padding:15px;
+		background-color: rgba(255,255,255,0.6);
+		position:relative;
+	
+		font-size: 34px;
+		border-radius:25px;
+		color: darkslateblue; 
+		top:5%;
+		left:25%}
+	table  {
+		width:51.7%;
+		text-align:left;
+		padding:15px;
+		background-color: rgba(255,255,255,0.6);
+		position:relative;
+		margin-top:50px;
+		font-size: 24px;
+		border-radius:25px;
+		color: darkslateblue; 
+		top:5%;
+		left:25%;
+	}
+	
+	}
+	
+	a:visited { color:mediumvioletred;
+	text-decoration:none;
+	}
+	
+	a {
+		color:mediumvioletred;
+		text-decoration:none;
+	}
+	
+	a:hover {
+		color:red;
+		text-decoration:underline;
+		font-weight:bold;
+		}
+	
+	
+	article {
+		margin-top:400px;
+		width:50%;
+		left:25%;
+		top:-30%;
+		position:relative;
+		 
+		padding:15px;
+		background-color: rgba(255,255,255,0.6);
+		font-size: 20px;
+		border-radius: 25px;
+		text-align:center;
+		padding:15px;
+		color:black;
+		
+		.ref {
+		
+		color:magenta;
+		text-decoration:none;
+		text-shadow: 3px 5px 3px darkslateblue;
+		font-size: 20px;
+}
+
+
+		nav {
+			
+			margin-right: 20px;
+		}
+
+		.button {
+			margin-bottom:5px;
+			color: white;
+			text-decoration:none;
+			width: 400px;
+			height: 400px;
+			background-color: red;
+			border-radius: 200px;
+		}
+
+
+		.up {
+			text-decoration:none;
+			margin-bottom:5px;
+			color:white;
+			
+			width:100px;
+			height:100px;
+			background:blue;
+			border-radius: 50px;
+		}
+		
+		
+		
+			
+	.space {
+		
+		
+		
+
+		width:900px;
+		
+		padding:15px;
+		background-color: rgba(255,255,255,0.6);
+		position:relative;
+		transform: translate(-50%, -25%);
+		font-size: 24px;
+		border-radius:25px;
+		top:25%;
+		left:50%;
+	}
+	
+	
+	
+	.foot {
+		width:300px;
+		text-align:center;
+		padding:5px;
+		border-radius: 10px;
+		background:rgba(255,255,255,0.6);
+		margin-left: 20px;
+		color:blue;
+		font-family:arial;
+		
+		
+	}
+	
+	.foot::selection {
+		
+		background:purple;
+	}
+			
+			
+			
+	
